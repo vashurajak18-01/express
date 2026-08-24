@@ -4,7 +4,7 @@
 
 **This project has a [Code of Conduct].**
 
-## Table of contents
+## _Table of contents_
 
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
