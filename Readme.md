@@ -260,7 +260,7 @@ The original author of Express is [TJ Holowaychuk](https://github.com/tj)
 </details>
 
 
-## License
+## _License_
 
   [MIT](LICENSE)
 
