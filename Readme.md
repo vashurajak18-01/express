@@ -2,7 +2,7 @@
 
 **_Fast_, _unopinionated_, _minimalist web framework_ for [Node.js](https://nodejs.org).**
 
-**This project has a [Code of Conduct].**
+**This project has a _[Code of Conduct]_.**
 
 ## Table of contents
 
