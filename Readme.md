@@ -6,7 +6,7 @@
 
 ## _Table of contents_
 
-- [Table of contents](#table-of-contents)
+- _[Table of contents](#table-of-contents)_
 - [Installation](#installation)
 - [Features](#features)
 - [Docs \& Community](#docs--community)
