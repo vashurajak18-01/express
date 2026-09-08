@@ -84,7 +84,7 @@ for more information.
 
 **PROTIP** Be sure to read the [migration guide to v5](https://expressjs.com/en/guide/migrating-5)
 
-## Quick Start
+## _Quick Start_
 
   The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
 
