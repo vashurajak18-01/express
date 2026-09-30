@@ -1,7 +1,7 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](https://expressjs.com/)
 
 
-***___Fast, _unopinionated_, *_minimalist web framework_* for [Node.js](https://nodejs.org).___***
+***___Fast, _unopinionated_, *__minimalist web framework__* for [Node.js](https://nodejs.org).___***
 
 ***__This _project_ **_has a_** _[Code of Conduct]_.__***
 
