@@ -3,7 +3,7 @@
 
 ***__Fast, __unopinionated__, *__minimalist web framework__* for [Node.js](https://nodejs.org).__***
 
-**__This __project__ *_has a_* _[Code of Conduct]_.___**
+**__This __project__ *_has a_* _[Code of Conduct]_.__**
 
 ## **__The Table of contents__**
 
